@@ -7,54 +7,55 @@ ID_Instituicao,NomeInstituicao,LocalizacaoInstituicao,ID_Area
 6,Centro Boldrini,Campinas/SP,1
 7,Centro Brasileiro de Pesquisas Físicas (CBPF),Rio de Janeiro/RJ,8
 8,Centro de Desenvolvimento Tecnológico em Saúde (CDTS) da Fundação Osvaldo Cruz (Fiocruz),Rio de Janeiro/RJ,1
-9,Centro de Inovação em Novas Energias (CINE),Rio de Janeiro/RJ,5
+9,Centro de Inovação em Novas Energias (CINE),Campinas/SP,5
 10,Centro de Pesquisa e Desenvolvimento em Telecomunicações (CPQD),Campinas/SP,4
-11,Centro Nacional de Tecnologia Eletrônica Avançada S.A. (CEITEC),Campinas/SP,4
-12,CEPID - BRAINN,São Carlos/SPCampinas/SP,7
+11,Centro Nacional de Tecnologia Eletrônica Avançada S.A. (CEITEC),São Carlos/SP,4
+12,CEPID - BRAINN,Campinas/SP,7
 13,Centro de Desenvolvimento de Materiais Funcionais,Campinas/SP,7
-14,Centro Universitário FEICompanhia de Saneamento Básico do Estado de São Paulo - SABESP,São Bernardo do Campo/SPSão Paulo/SP,7
-15,Eyedea Educação e Desenvolvimento em Oftalmologia LTDA.,São Paulo/SP,2
-16,Fundação Oswaldo Cruz (Fiocruz) Unidade de Ribeirão Preto/SP,Ribeirão Preto/SP,1
-17,Furukawa Electric LatAm S.A.,Curitiba/PR,1
-18,Hospital da Restauração-Recife,Recife/PE,4
-19,Hospital das Clínicas-Faculdade de Medicina (USP),São Paulo/SP,1
-20,Hospital Municipal Miguel Couto-Rio de Janeiro,Rio de Janeiro/RJ,1
-21,"Indústria, Comércio, Importação e Exportação de Tintas Condutivas - TICON Ltda.",São Paulo/SP,1
-22,Instituto de Biologia Molecular do Paraná - IBMP,Curitiba/PR,5
-23,Instituto de Desenvolvimento de Londrina - CODEL,Londrina/PR,8
-24,Instituto Estadual de Campinas (UNICAMP),Campinas/SP,7
-25,Instituto Federal do Rio Grande do Norte (IFRN),Natal/RN,7
-26,Instituto iCORPS Brasil,São Paulo/SP,7
-27,Instituto Mauá de Tecnologia (IMT),São Paulo/SP,7
-28,Instituto Nacional de Ciência e Tecnologia de Sistemas Micro e Nanoeletrônicos (INCT NAMITEC),Campinas/SP,7
-29,Instituto Nacional de Ciência e Tecnologia em Biofabricação (INCT BIOFABRIS),Campinas/SP,7
-30,Instituto Nacional de Ciência e Tecnologia em Medicina Regenerativa (INCT REGENERA),São Paulo/SP,7
-31,Instituto Nacional de Ciência e Tecnologia para Sistemas Autônomos Cooperativos (InSAC),São Paulo/SP,7
-32,Instituto Nacional de Metrologia (INMETRO),Duque de Caxias/RJ,10
-33,Instituto Nacional de Pesquisas Espaciais (INPE),São José dos Campos/SP,7
-34,Instituto de Estudos Avançados (IEAv),São José dos Campos/SP,7
-35,Instituto Nacional de Tecnologia - INT,Rio de Janeiro/RJ,7
-36,Instituto Tecnológico de Aeronáutica (ITA),São José dos Campos/SP,7
-37,"Ministério da Ciência, Tecnologia e Inovações (MCTI)",Brasília/DF,10
-38,Ministério do Desenvolvimento Regional (MDR),Brasília/DF,2
-39,NAMITEC II,Campinas/SP,7
-40,Núcleo de Perícias Criminalísticas de Campinas,Campinas/SP,7
-41,Pontifícia Universidade Católica de Campinas (PUC-Campinas),Campinas/SP,7
-42,Rede de Nanodispositivos e Nanossensores (SIBRATECNANO),Campinas/SP,7
-43,Rede Nacional de Ensino e Pesquisa (RNP),Brasília/DF,7
-44,Tecnologia em Sistemas Automotivos - TSA Ltda.,São Paulo/SP,7
-45,Tribunal Superior Eleitoral,Brasília/DF,7
-46,Universidade de São Paulo (USP),São Paulo/SP,7
-47,Universidade do Estado da Bahia (UNEB),Salvador/BA,7
-48,Universidade Estadual de Campinas (UNICAMP),Campinas/SP,7
-49,Universidade Estadual Paulista (UNESP),São Paulo/SP,7
-50,Universidade Federal de Alagoas (UFAL),Maceió/AL,7
-51,Universidade Federal de Juiz de Fora (UFJF),Juiz de Fora/MG,7
-52,Universidade Federal de Santa Catarina (UFSC),Florianópolis/SC,7
-53,Universidade Federal de Santa Maria (UFSM),Santa Maria/RS,1
-54,Universidade Federal de São Paulo (UNIFESP),São Paulo/SP,7
-55,Universidade Federal Fluminense (UFF),Niterói/RJ,7
-56,Universidade Federal do ABC (UFABC),Santo André/SP,2
-57,Vetra,São Paulo/SP,6
-58,Visto.Bio,São Paulo/SP,1
-59,Vyttra Diagnósticos,Campinas/SP,1
+14,Centro Universitário FEI,São Bernardo do Campo/SP,7
+15,Companhia de Saneamento Básico do Estado de São Paulo - SABESP,São Paulo/SP,2
+16,Eyedea Educação e Desenvolvimento em Oftalmologia LTDA.,São Paulo/SP,1
+17,Fundação Oswaldo Cruz (Fiocruz) Unidade de Ribeirão Preto/SP,Ribeirão Preto/SP,1
+18,Furukawa Electric LatAm S.A.,Curitiba/PR,4
+19,Hospital da Restauração-Recife,Recife/PE,1
+20,Hospital das Clínicas-Faculdade de Medicina (USP),São Paulo/SP,1
+21,Hospital Municipal Miguel Couto-Rio de Janeiro,Rio de Janeiro/RJ,1
+22,"Indústria, Comércio, Importação e Exportação de Tintas Condutivas - TICON Ltda.",São Paulo/SP,5
+23,Instituto de Biologia Molecular do Paraná - IBMP,Curitiba/PR,8
+24,Instituto de Desenvolvimento de Londrina - CODEL,Londrina/PR,7
+25,Instituto Estadual de Campinas (UNICAMP),Campinas/SP,7
+26,Instituto Federal do Rio Grande do Norte (IFRN),Natal/RN,7
+27,Instituto iCORPS Brasil,São Paulo/SP,7
+28,Instituto Mauá de Tecnologia (IMT),São Paulo/SP,7
+29,Instituto Nacional de Ciência e Tecnologia de Sistemas Micro e Nanoeletrônicos (INCT NAMITEC),Campinas/SP,7
+30,Instituto Nacional de Ciência e Tecnologia em Biofabricação (INCT BIOFABRIS),Campinas/SP,7
+31,Instituto Nacional de Ciência e Tecnologia em Medicina Regenerativa (INCT REGENERA),São Paulo/SP,7
+32,Instituto Nacional de Ciência e Tecnologia para Sistemas Autônomos Cooperativos (InSAC),São Paulo/SP,10
+33,Instituto Nacional de Metrologia (INMETRO),Duque de Caxias/RJ,7
+34,Instituto Nacional de Pesquisas Espaciais (INPE),São José dos Campos/SP,7
+35,Instituto de Estudos Avançados (IEAv),São José dos Campos/SP,7
+36,Instituto Nacional de Tecnologia - INT,Rio de Janeiro/RJ,7
+37,Instituto Tecnológico de Aeronáutica (ITA),São José dos Campos/SP,10
+38,"Ministério da Ciência, Tecnologia e Inovações (MCTI)",Brasília/DF,2
+39,Ministério do Desenvolvimento Regional (MDR),Brasília/DF,7
+40,NAMITEC II,Campinas/SP,7
+41,Núcleo de Perícias Criminalísticas de Campinas,Campinas/SP,7
+42,Pontifícia Universidade Católica de Campinas (PUC-Campinas),Campinas/SP,7
+43,Rede de Nanodispositivos e Nanossensores (SIBRATECNANO),Campinas/SP,7
+44,Rede Nacional de Ensino e Pesquisa (RNP),Brasília/DF,7
+45,Tecnologia em Sistemas Automotivos - TSA Ltda.,São Paulo/SP,7
+46,Tribunal Superior Eleitoral,Brasília/DF,7
+47,Universidade de São Paulo (USP),São Paulo/SP,7
+48,Universidade do Estado da Bahia (UNEB),Salvador/BA,7
+49,Universidade Estadual de Campinas (UNICAMP),Campinas/SP,7
+50,Universidade Estadual Paulista (UNESP),São Paulo/SP,7
+51,Universidade Federal de Alagoas (UFAL),Maceió/AL,7
+52,Universidade Federal de Juiz de Fora (UFJF),Juiz de Fora/MG,7
+53,Universidade Federal de Santa Catarina (UFSC),Florianópolis/SC,1
+54,Universidade Federal de Santa Maria (UFSM),Santa Maria/RS,7
+55,Universidade Federal de São Paulo (UNIFESP),São Paulo/SP,7
+56,Universidade Federal Fluminense (UFF),Niterói/RJ,2
+57,Universidade Federal do ABC (UFABC),Santo André/SP,6
+58,Vetra,São Paulo/SP,1
+59,Visto.Bio,São Paulo/SP,1
+60,Vyttra Diagnósticos,Campinas/SP,1
